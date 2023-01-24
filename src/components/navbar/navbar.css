@@ -1,0 +1,19 @@
+.navbar-container{
+    padding: 0px 20px;
+    background-color: #fff;
+}
+.navbar{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.logo > h1{
+    color: rgb(6, 6, 156);
+}
+.navlinks{
+    display: flex;
+    gap: 20px;
+}
+.navlink{
+    list-style: none;
+}
