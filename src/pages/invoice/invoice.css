@@ -1,3 +1,49 @@
 .invoice{
     padding: 10px 20px;
 }
+.m0{
+    margin: 0;
+}
+.invoice-select{
+    margin: 30px 0px;
+}
+.invoice-info{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px 40px;
+}
+.invoice-details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.owner-details-1{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.owner-logo{
+    background-color: #6262edb5;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+}
+.text-gray{
+    color:gray;
+}
+.owner-address-2{
+    text-align: right;
+}
+.invoice-no-details{
+    border-radius: 20px;
+    padding: 20px 40px;
+    margin: 25px 0px;
+    background: rgb(83, 83, 167);
+    color: rgba(255, 255, 255, 0.932);
+}
